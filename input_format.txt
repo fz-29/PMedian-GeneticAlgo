@@ -1,0 +1,5 @@
+Total number of facilities - F
+Number of facilities to be located - P
+Total Number of Customers - C
+List of demand from customers separated by space
+Matrix of distance between customer i and facility j (C x P) separated by space and new line
